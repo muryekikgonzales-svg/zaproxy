@@ -1,4 +1,4 @@
-name: Check For ZAP Errors
+name: Github Display
 on:
   workflow_dispatch:
   schedule:
